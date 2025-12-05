@@ -10,6 +10,14 @@
 !.yarn/releases
 !.yarn/versions
 
+node_modules
+.next
+.vercel
+.turbo
+.env
+*.log
+
+
 # testing
 /coverage
 
